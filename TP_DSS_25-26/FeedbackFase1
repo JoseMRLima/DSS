@@ -1,0 +1,13 @@
+Grupo 3
+
+Modelo de Domínio:
+- onde é que está referido que uma refeição pode ser um menu já feito ou então escolhido item a item?
+- se a relação entre Pedido e Refeição é de 1-1, vale a pena ter as duas entidades?
+- Não se percebe o que se faz num estágio. Não tem relação com o ingrediente.
+
+Modelo de Use Cases:
+- o processo de pagamento não é, longe disso, o requisito mais importante do sistema.
+É aliás feito fora do sistema, pelo que não se percebe pq tanto destaque nos use cases.
+
+- no UC "Efectuar Pedido", os passos que não indicam nada, como o passo 7, não precisa de ser colocado. No fluxo alternativo irá aparecer o que acontece quando a condição é diferente.
+

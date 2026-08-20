@@ -1,6 +1,8 @@
 
 # Trabalho Prático DSS 2025/2026
 
+**Nota:** 12
+
 
 ## Grupo
 

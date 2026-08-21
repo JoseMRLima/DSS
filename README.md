@@ -1,6 +1,6 @@
-# Desenho de Software
+# Desenvolvimento de Sistemas de Software
 
-Conteúdo da unidade curricular **Desenho de Software** do ano letivo 2025/2026.
+Conteúdo da unidade curricular **Desenvolvimento de Sistemas de Software** do ano letivo 2025/2026.
 
 ## Conteúdo
 
